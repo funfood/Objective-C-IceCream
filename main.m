@@ -1,13 +1,3 @@
-//
-//  main.m
-//  HolamosWorld
-//
-//  Created by Zoe IAMZOE.io on 2/21/17.
-//  Copyright © 2017 Zoe IAMZOE.io. All rights reserved.
-//
-
-// First program example
-
 #import <Foundation/Foundation.h>
 //run main program
 int main (int argc, const char * argv[])
